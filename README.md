@@ -3,6 +3,7 @@
 Machine Learning course project:
 
 Using Knime Analytic Platform perform machine learning based analysis on Low Back Pain diagnosis.
+Data can be found at the following kaggle link: https://www.kaggle.com/sammy123/lower-back-pain-symptoms-dataset
 
 # ABSTRACT
 
